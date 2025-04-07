@@ -1,0 +1,5 @@
+Name	Exam1	Exam2	Exam3
+Emma	95	75	85
+Noah	89		99
+Liam	88	98	78
+Olivia		70	80
